@@ -6,6 +6,12 @@
   padding: 20px;
 }
 
+@media (max-width: 767px) {
+  .harry-up-sec {
+    width: 100%;
+  }
+}
+
 .harry-up-sec .text-harry {
   text-align: center;
   margin-bottom: 20px;
